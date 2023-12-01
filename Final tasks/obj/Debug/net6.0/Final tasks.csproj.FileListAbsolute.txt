@@ -1,0 +1,15 @@
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.csproj.AssemblyReference.cache
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.AssemblyInfoInputs.cache
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.AssemblyInfo.cs
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.csproj.CoreCompileInputs.cache
+D:\Programmes\Study\C#study\Final tasks\bin\Debug\net6.0\Final tasks.exe
+D:\Programmes\Study\C#study\Final tasks\bin\Debug\net6.0\Final tasks.deps.json
+D:\Programmes\Study\C#study\Final tasks\bin\Debug\net6.0\Final tasks.runtimeconfig.json
+D:\Programmes\Study\C#study\Final tasks\bin\Debug\net6.0\Final tasks.dll
+D:\Programmes\Study\C#study\Final tasks\bin\Debug\net6.0\Final tasks.pdb
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.dll
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\refint\Final tasks.dll
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.pdb
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\Final tasks.genruntimeconfig.cache
+D:\Programmes\Study\C#study\Final tasks\obj\Debug\net6.0\ref\Final tasks.dll
